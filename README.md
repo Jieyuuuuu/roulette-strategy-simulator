@@ -1,5 +1,5 @@
 # Roulette Strategy Simulator
-
+https://jieyuuuuu-roulette-strategy-simulator-app-nz7d3m.streamlit.app/
 [中文版](README_zh.md)
 
 ### Introduction
