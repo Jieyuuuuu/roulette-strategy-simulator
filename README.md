@@ -1,6 +1,7 @@
 # Roulette Strategy Simulator
-https://jieyuuuuu-roulette-strategy-simulator-app-nz7d3m.streamlit.app/
 [中文版](README_zh.md)
+
+https://jieyuuuuu-roulette-strategy-simulator-app-nz7d3m.streamlit.app/
 
 ### Introduction
 This is a roulette casino strategy simulator designed for testing and comparing different betting strategies. Users can select various strategies, bet types, and betting modes while observing real-time capital changes.
