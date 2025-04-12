@@ -180,6 +180,7 @@ with col1:
     st.title(t("title"))
 with col2:
     st.write("")  # Add spacing
+    st.write("")  # Add extra spacing for language toggle
     # Language toggle
     lang_col1, lang_col2, lang_col3 = st.columns([0.5, 0.5, 0.5])
     with lang_col1:
